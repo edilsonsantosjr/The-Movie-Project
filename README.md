@@ -10,4 +10,4 @@
   </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/100887684/185830699-a2fbd6bd-4867-46a2-9635-7978c3f7ff83.png)
+![image](https://github.com/edilsonsantosjr/The-Movie-Project/blob/dev/public/readme-image/home.png)
